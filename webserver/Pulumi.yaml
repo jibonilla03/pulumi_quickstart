@@ -1,0 +1,6 @@
+name: myec2project
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal AWS Python Pulumi prEC2
